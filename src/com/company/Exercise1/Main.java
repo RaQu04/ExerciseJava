@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Exercise1;
 
 import java.util.regex.Pattern;
 
@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String a = "ABABAababa";
+        String a = "BAcAb";
         System.out.println(convert(a));
 
     }
